@@ -3,6 +3,9 @@
 
 function isLongWord(word) {
   // write your solution here! 
+  if (word.length > 5){
+    return true;}
+  return false;
   
 }
 
